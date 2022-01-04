@@ -1,0 +1,65 @@
+MYSQL
+SQL syntax
+valid MySQL
+warning: mysql
+ODBC Microsoft Access Driver
+java.sql.SQLException
+XPathException
+valid ldap
+javax.naming.NameNotFoundException
+unclosed quotation mark after the character string
+quoted string not properly terminated
+SQL Server
+syntax error
+XPATH syntax error
+OLE DB provider
+Microsoft SQL Server
+OleDb.OleDbException
+Microsoft SQL Native Client error
+ubuntu
+Error: HY000
+Microsoft SQL Server
+Oracle
+Postgre SQL
+MSSQL
+Microsoft JET Database Engine
+ORA-00933:
+PSQLException
+sqlite3
+sqlite3.OperationalError
+MySQL
+error in your SQL syntax
+MiscError
+mysql_fetch
+MiscError2
+num_rows
+ORA-01756
+JDBC_CFM
+Error Executing Database Query
+SQLServer JDBC Driver
+MSSQL_OLEdb
+Microsoft OLE DB Provider for SQL Server
+MSSQL_Uqm
+Unclosed quotation mark
+MS-Access_ODBC
+ODBC Microsoft Access Driver
+MS-Access_JETdb
+Microsoft JET Database
+Error Occurred While Processing Request
+Microsoft OLE DB Provider for ODBC Drivers error
+Invalid Querystring
+OLE DB Provider for ODBC
+VBScript Runtime
+ADODB.Field
+BOF or EOF
+ADODB.Command
+JET Database
+mysql_fetch_array()
+Syntax error
+mysql_numrows()
+GetArray()
+Fatal error
+FetchRow()
+Input string was not in a correct format
+Internal Server Error
+The server encountered an internal error and was unable to complete your request. Either the server is overloaded or there is an error in the application
